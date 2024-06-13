@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Development Projects:</h2>
 
-- <b> Machines (DockerLabs / Hackthebox...)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Machines </b>
+  - [Write-up -> Upload (Dockerlabs)](https://github.com/miiguelpalaces/Machine-Upload-Dockerlabs-)
 
 

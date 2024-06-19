@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Programming Proyects</b>
-  - [University](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Programming</b>
+  - [Proyects](https://github.com/miiguelpalaces/Programming)
 
 <h2>👨‍💻 Cybersecurity Development Projects:</h2>
 
